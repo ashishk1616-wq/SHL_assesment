@@ -137,7 +137,7 @@
 **Results:**
 | Metric | Value |
 |--------|-------|
-| Recall@10 (train) | 0.64 |
+| Recall@10 (train) | 0.66 |
 
 **Observations:**
 - Example batteries teach the LLM the selection pattern
@@ -158,7 +158,7 @@
 **Results:**
 | Metric | Value |
 |--------|-------|
-| **Recall@10 (train)** | **0.6433** |
+| **Recall@10 (train)** | **0.68** |
 
 **Per-query breakdown:**
 | Query | Recall@10 |
